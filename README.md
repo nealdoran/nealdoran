@@ -1,24 +1,20 @@
-## Neal Doran
+## Dr. Neal Doran
+**Geoscientist & Scientific Data Engineer**
 
-PhD geoscientist building deployed AI/ML systems on large scientific databases.
+I build deployed AI/ML systems and production-ready data pipelines optimized for massive scientific and biodiversity databases. Backed by a PhD in geological sciences (micropaleontology) and two decades of hands-on domain experience with deep-time geological, paleontological, and spatial biodiversity data, I bridge the gap between highly complex natural science datasets and robust computational engineering.
 
-Twenty years working with geological, paleontological, and biodiversity data — now building the data-engineering and machine-learning tools that turn that data into something queryable, explorable, and useful. I build the systems I wish existed.
+### Core Deployed Systems
+*   **Spatial Biodiversity Gap Audit Platform** — An automated extract, transform, load (ETL) pipeline and live analytical dashboard cross-auditing global IUCN Red List conservation data against a 26-million-record GBIF spatial occurrence dataset using Python and SQLite. 
+    👉 [Launch Deployed App](https://nealdoran-biodiversity-gap-audit.streamlit.app)
 
-**What I work with**
+*   **Semantic Socratic Tutor** — A retrieval-augmented generation (RAG) system grounded in a specialized historical and philosophical scientific corpus. Built with Python, utilizing `all-MiniLM-L6-v2` sentence-transformer embeddings, optimized NumPy cosine-similarity retrieval matrices, and an integrated Anthropic Claude API pipeline.
+    👉 [Launch Deployed App](https://socratic-tutor-ascznqxqjn6mrpzqc6gopp.streamlit.app/)
 
-Python · SQL · RAG and semantic retrieval · sentence-transformer embeddings · Streamlit · spatial data engineering (PostGIS, GeoPandas)
+### Technical Stack & Capabilities
+*   **Languages & Databases:** Python, SQL, SQLite
+*   **Data Engineering:** High-throughput ETL pipelines, database normalization, structural data migration, large-scale dataset ingestion
+*   **AI/ML & Natural Language Processing:** Retrieval-Augmented Generation (RAG) architecture, vector embeddings, semantic search optimization, LLM API integration (Anthropic Claude)
+*   **Deployment & UI:** Streamlit framework, Streamlit Cloud ecosystem, interactive dashboard architecture
 
-**Live applications**
-
-- [Biodiversity Gap Audit](https://nealdoran-biodiversity-gap-audit.streamlit.app/) — interactive dashboard cross-auditing IUCN Red List classifications against 26M GBIF occurrence records, surfacing where threatened-species data is thinnest
-- [Socratic Tutor](https://socratic-tutor-ascznqxqjn6mrpzqc6gopp.streamlit.app/) — RAG-powered tutor for philosophy of science, grounded in a Kuhn and Polanyi corpus for source-faithful answers
-
-**Currently building**
-
-The Stratigraphic Column Project — a relational database integrating Macrostrat, PBDB, and other sources across millions of records, now migrating to PostgreSQL/PostGIS for continental-scale spatial analysis.
-
----
-
-Bryan College · Doran Scientific Analytics
-
-[LinkedIn](https://www.linkedin.com/in/nealdoran707)
+### Active Infrastructure Migrations
+*   **Advanced Geospatial Engineering:** Currently migrating core relational datasets and ETL pipelines into enterprise-scale spatial SQL environments using **PostGIS** and **GeoPandas** to optimize multi-gigabyte coordinate processing and spatial polygon indexing.
