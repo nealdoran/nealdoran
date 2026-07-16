@@ -23,4 +23,4 @@ I am a Paleobiologist and Professor of Biology who builds deployed AI/ML systems
 
 Alongside my computational and scientific work, I maintain a platform exploring the intersection of the historical sciences, philosophy, and faith at [Faith and Reason-25](https://creationmodelreflections.wordpress.com). 
 
-**Profiles:** [LinkedIn](https://linkedin.com/in/nealdoran707) | [ORCID](https://orcid.org/0009-0001-9400-5878) | [Google Scholar](INSERT_YOUR_SCHOLAR_URL_HERE) | [ResearchGate](INSERT_YOUR_RESEARCHGATE_URL_HERE)
+**Profiles:** [LinkedIn](https://linkedin.com/in/nealdoran707) | [ORCID](https://orcid.org/0009-0001-9400-5878) | [Google Scholar](https://scholar.google.com/citations?user=_3vm8h4AAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Neal-Doran-2)
